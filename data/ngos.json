@@ -1,0 +1,16 @@
+[
+    {
+        "name": "EcoWaste Tamil Nadu",
+        "lat": 10.7905,
+        "lon": 78.7047,
+        "contact": "9876543210",
+        "accepted_waste": ["banana_stem", "paddy_husk"]
+    },
+    {
+        "name": "Green Recyclers",
+        "lat": 11.1271,
+        "lon": 78.6569,
+        "contact": "9123456789",
+        "accepted_waste": ["sugarcane_bagasse"]
+    }
+]
