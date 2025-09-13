@@ -9,7 +9,7 @@ def main():
     choice = input("Enter '1' for Image Input or '2' for Voice Input in Tamil: ")
 
     if choice == '1':
-        image_path = 'images/3.jpg'
+        image_path = 'images/test_waste.jpg'
         waste_type = classify_image(image_path)
     elif choice == '2':
         waste_type = recognize_voice_in_tamil()
